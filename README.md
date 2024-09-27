@@ -14,4 +14,4 @@ Configuraciones básicas para trabajar con el FrameWork de Django
 11. Creando el proyecto --> django-admin startproject webenmarcados_proy .
 12. Realizar migracion al proyecto --> python manage.py migrate
 13. Ejecutar servidor --> python manage.py runserver
-- Me trabajó el proyecto
+- Me trabajó el proyecto --> http://127.0.0.1:8000/
