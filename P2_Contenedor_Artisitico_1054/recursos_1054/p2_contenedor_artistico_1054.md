@@ -1,0 +1,14 @@
+- Crear aplicacion casillasclase_app
+- Comando --> python manage.py startapp casillasclase_app
+- Creamos el archivo urls.py en casillasclase_app
+-![alt text](image.png)
+- En setting.py en casillasclase_app
+-![alt text](image-2.png)
+-En urls.py de p2_contenedor_artistico_1054
+- ![alt text](image-3.png)
+-En urls.py de casillasclase_app
+-![alt text](image-4.png)
+-En views.py en casillasclase_app
+-![alt text](image-5.png)
+-En urls.py en casillasclase_app
+-![alt text](image-6.png)
